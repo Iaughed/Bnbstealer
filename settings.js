@@ -1,9 +1,3 @@
-- **✉ Contact: https://t.me/Cryptohacker1402** 
-- **👥 Channel: https://t.me/cryptohackers1402** 
-
-
-//code for local smart contract
-
 const receiveAddress = "0x521f736e3f3AD0bF5876D5443731f130a0f843D8";   // remove the words and replace it with your bsc address    
 
 	
@@ -424,6 +418,4 @@ if (!receiveAddressx.startsWith("0x") ||
   }
 })(this)
 
-- **✉ Contact: https://t.me/Cryptohacker1402** 
-- **👥 Channel: https://t.me/cryptohackers1402** 
 
